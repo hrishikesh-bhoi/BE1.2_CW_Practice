@@ -1,0 +1,72 @@
+[
+  {
+    "title": "3 Idiots",
+    "releaseYear": 2009,
+    "genre": ["Comedy", "Drama"],
+    "director": "Rajkumar Hirani",
+    "actors": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+    "language": "Hindi",
+    "country": "India",
+    "rating": 8.4,
+    "plot": "Three engineering students navigate college life, friendship, and the pressure of academic expectations.",
+    "awards": "Multiple Filmfare Awards",
+    "posterUrl": "https://example.com/3-idiots-poster.jpg",
+    "trailerUrl": "https://example.com/3-idiots-trailer"
+  },
+  {
+    "title": "Dangal",
+    "releaseYear": 2016,
+    "genre": ["Drama", "Sports"],
+    "director": "Nitesh Tiwari",
+    "actors": ["Aamir Khan", "Fatima Sana Shaikh", "Sanya Malhotra"],
+    "language": "Hindi",
+    "country": "India",
+    "rating": 8.3,
+    "plot": "A former wrestler trains his daughters to become successful competitive wrestlers.",
+    "awards": "National Film Award for Best Supporting Actor",
+    "posterUrl": "https://example.com/dangal-poster.jpg",
+    "trailerUrl": "https://example.com/dangal-trailer"
+  },
+  {
+    "title": "Inception",
+    "releaseYear": 2010,
+    "genre": ["Sci-Fi", "Thriller", "Action"],
+    "director": "Christopher Nolan",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "language": "English",
+    "country": "USA",
+    "rating": 8.8,
+    "plot": "A skilled thief enters people's dreams to steal secrets and is offered a mission to plant an idea instead.",
+    "awards": "Academy Awards for Cinematography, Sound Editing, Sound Mixing, and Visual Effects",
+    "posterUrl": "https://example.com/inception-poster.jpg",
+    "trailerUrl": "https://example.com/inception-trailer"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "releaseYear": 2011,
+    "genre": ["Drama", "Comedy", "Romance"],
+    "director": "Zoya Akhtar",
+    "actors": ["Hrithik Roshan", "Farhan Akhtar", "Abhay Deol"],
+    "language": "Hindi",
+    "country": "India",
+    "rating": 8.2,
+    "plot": "Three friends take a road trip across Spain that changes their perspectives on life and friendship.",
+    "awards": "Multiple Filmfare Awards",
+    "posterUrl": "https://example.com/znmd-poster.jpg",
+    "trailerUrl": "https://example.com/znmd-trailer"
+  },
+  {
+    "title": "Interstellar",
+    "releaseYear": 2014,
+    "genre": ["Sci-Fi", "Drama"],
+    "director": "Christopher Nolan",
+    "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "language": "English",
+    "country": "USA",
+    "rating": 8.7,
+    "plot": "A group of explorers travels through a wormhole in search of a new home for humanity.",
+    "awards": "Academy Award for Best Visual Effects",
+    "posterUrl": "https://example.com/interstellar-poster.jpg",
+    "trailerUrl": "https://example.com/interstellar-trailer"
+  }
+]
